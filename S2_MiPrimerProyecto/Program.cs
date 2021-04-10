@@ -49,7 +49,7 @@ namespace S2_MiPrimerProyecto
 
             Console.WriteLine("La búsqueda encontró a: " + busqueda.nombreCompleto);
 
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
